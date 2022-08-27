@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task004_FindEntry\bin\Debug\net6.0\Task004_FindEntry.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task004_FindEntry\bin\Debug\net6.0\Task004_FindEntry.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task004_FindEntry\bin\Debug\net6.0\Task004_FindEntry.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task004_FindEntry\bin\Debug\net6.0\Task004_FindEntry.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task004_FindEntry\bin\Debug\net6.0\Task004_FindEntry.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task004_FindEntry\obj\Debug\net6.0\Task004_FindEntry.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task004_FindEntry\obj\Debug\net6.0\Task004_FindEntry.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task004_FindEntry\obj\Debug\net6.0\Task004_FindEntry.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task004_FindEntry\obj\Debug\net6.0\Task004_FindEntry.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task004_FindEntry\obj\Debug\net6.0\Task004_FindEntry.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task004_FindEntry\obj\Debug\net6.0\Task004_FindEntry.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task004_FindEntry\obj\Debug\net6.0\refint\Task004_FindEntry.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task004_FindEntry\obj\Debug\net6.0\Task004_FindEntry.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task004_FindEntry\obj\Debug\net6.0\Task004_FindEntry.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task004_FindEntry\obj\Debug\net6.0\ref\Task004_FindEntry.dll
