@@ -1,0 +1,15 @@
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task002_EvenPairs\bin\Debug\net6.0\Task002_EvenPairs.exe
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task002_EvenPairs\bin\Debug\net6.0\Task002_EvenPairs.deps.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task002_EvenPairs\bin\Debug\net6.0\Task002_EvenPairs.runtimeconfig.json
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task002_EvenPairs\bin\Debug\net6.0\Task002_EvenPairs.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task002_EvenPairs\bin\Debug\net6.0\Task002_EvenPairs.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task002_EvenPairs\obj\Debug\net6.0\Task002_EvenPairs.csproj.AssemblyReference.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task002_EvenPairs\obj\Debug\net6.0\Task002_EvenPairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task002_EvenPairs\obj\Debug\net6.0\Task002_EvenPairs.AssemblyInfoInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task002_EvenPairs\obj\Debug\net6.0\Task002_EvenPairs.AssemblyInfo.cs
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task002_EvenPairs\obj\Debug\net6.0\Task002_EvenPairs.csproj.CoreCompileInputs.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task002_EvenPairs\obj\Debug\net6.0\Task002_EvenPairs.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task002_EvenPairs\obj\Debug\net6.0\refint\Task002_EvenPairs.dll
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task002_EvenPairs\obj\Debug\net6.0\Task002_EvenPairs.pdb
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task002_EvenPairs\obj\Debug\net6.0\Task002_EvenPairs.genruntimeconfig.cache
+D:\Обучение GB digital master\Основной курс\4-знакомство с языками программирования\Семинар 4.5 -Как не нужно писать код. Часть 1\Seminar 4.5\Task002_EvenPairs\obj\Debug\net6.0\ref\Task002_EvenPairs.dll
